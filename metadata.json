@@ -1,0 +1,5 @@
+{
+  "name": "URL Shortener",
+  "description": "A sleek, client-side URL shortener application that allows creating custom, expiring short links and tracking their usage statistics. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
